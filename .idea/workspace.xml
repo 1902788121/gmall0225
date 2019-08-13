@@ -1,0 +1,1344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c358cd2a-c71f-4d27-a04e-3c7423bc67c3" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmall-parent/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmall-search-web/src/main/resources/static/index/js/catalogLoader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
+    <ignored path="$PROJECT_DIR$/gmall-user/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-api/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-parent/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-common-util/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-service-util/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-web-util/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-manage-web/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-user-service/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-user-web/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-manage-service/target/" />
+    <ignored path="$PROJECT_DIR$/fastdfs-client-java/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-item-web/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-manage-redisson/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-search-web/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-search-service/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-cart-web/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-cart-service/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-order-web/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-passport-web/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-order-service/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-payment/target/" />
+    <ignored path="$PROJECT_DIR$/gware-manage/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-seckill/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="gmall_study@localhost" type="e3449647:DbNodeDescriptor" />
+      </path>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="gmall_study@localhost" type="e3449647:DbNodeDescriptor" />
+        <item name="gmall_study" type="e3449647:DbNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="gmall0225" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="SeckillController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gmall-seckill/src/main/java/com/atguigu/gmall/seckill/controller/SeckillController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>json</find>
+      <find>dd</find>
+      <find>js.js</find>
+      <find>keyword</find>
+      <find>搜索</find>
+      <find>addToCart</find>
+      <find>item</find>
+      <find>itemForm</find>
+      <find>checkSku</find>
+      <find>submitLogin</find>
+      <find>skuId</find>
+      <find>购物车</find>
+      <find>orderSn</find>
+      <find>omsOrderItem</find>
+      <find>paymentForm</find>
+      <find>alipayRequest</find>
+      <find>producer</find>
+      <find>DefaultJmsListenerContainerFactory</find>
+      <find>gmall</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/gmall-order-web/src/main/java/com/atguigu/gmall/api/OrderService.java" />
+        <option value="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/atguigu/gmall/manage/service/impl/SkuServiceImpl.java" />
+        <option value="$PROJECT_DIR$/gmall-order-web/src/main/resources/templates/trade.html" />
+        <option value="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/service/UserService.java" />
+        <option value="$PROJECT_DIR$/gmall-user-service/src/main/java/com/atguigu/gmall/user/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/gmall-order-service/src/main/java/com/atguigu/gmall/order/mapper/OmsOrderItemMapper.java" />
+        <option value="$PROJECT_DIR$/gmall-order-service/src/main/java/com/atguigu/gmall/order/mapper/OmsOrderMapper.java" />
+        <option value="$PROJECT_DIR$/gmall-manage-service/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/gmall-payment/src/main/resources/templates/index.html" />
+        <option value="$PROJECT_DIR$/gmall-payment/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-payment/src/main/resources/alipay.properties" />
+        <option value="$PROJECT_DIR$/gmall-payment/src/main/java/com/atguigu/com/payment/config/AlipayConfig.java" />
+        <option value="$PROJECT_DIR$/gmall-payment/src/main/resources/static/paySuccess.html" />
+        <option value="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/beans/PaymentInfo.java" />
+        <option value="$PROJECT_DIR$/gmall-payment/src/main/java/com/atguigu/com/payment/controller/PaymentController.java" />
+        <option value="$PROJECT_DIR$/gmall-payment/src/main/java/com/atguigu/gmall/payment/mapper/PaymentInfoMapper.java" />
+        <option value="$PROJECT_DIR$/gmall-payment/src/main/java/com/atguigu/gmall/payment/GmallPaymentApplication.java" />
+        <option value="$PROJECT_DIR$/gmall-order-service/src/main/java/com/atguigu/gmall/GmallOrderServiceApplication.java" />
+        <option value="$PROJECT_DIR$/gmall-service-util/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-payment/src/test/java/com/atguigu/gmall/payment/Boss.java" />
+        <option value="$PROJECT_DIR$/gmall-payment/src/test/java/com/atguigu/gmall/payment/FeiLong.java" />
+        <option value="$PROJECT_DIR$/gmall-payment/src/test/java/com/atguigu/gmall/payment/FengJie.java" />
+        <option value="$PROJECT_DIR$/gmall-payment/src/test/java/com/atguigu/gmall/payment/BossT.java" />
+        <option value="$PROJECT_DIR$/gmall-payment/src/test/java/com/atguigu/gmall/payment/FengJieT.java" />
+        <option value="$PROJECT_DIR$/gmall-payment/src/main/java/com/atguigu/gmall/payment/test/FeiLongT.java" />
+        <option value="$PROJECT_DIR$/gmall-payment/src/test/java/com/atguigu/gmall/payment/FeiLongT.java" />
+        <option value="$PROJECT_DIR$/gmall-service-util/src/main/java/com/atguigu/gmall/util/ActiveMQUtil.java" />
+        <option value="$PROJECT_DIR$/gmall-service-util/src/main/java/com/atguigu/gmall/config/ActiveMQConfig.java" />
+        <option value="$PROJECT_DIR$/gmall-user-service/src/main/java/com/atguigu/gmall/GmallUserServiceApplication.java" />
+        <option value="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/atguigu/gmall/GmallManageServiceApplication.java" />
+        <option value="$PROJECT_DIR$/gmall-cart-service/src/main/java/com/atguigu/gmall/GmallCartServiceApplication.java" />
+        <option value="$PROJECT_DIR$/gmall-payment/src/main/java/com/atguigu/gmall/GmallPaymentApplication.java" />
+        <option value="$PROJECT_DIR$/gmall-web-util/src/main/java/com/atguigu/gmall/interceptors/AuthInterceptor.java" />
+        <option value="$PROJECT_DIR$/gmall-order-web/src/main/java/com/atguigu/gmall/order/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/gmall-payment/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/gmall-order-service/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/service/OrderService.java" />
+        <option value="$PROJECT_DIR$/gmall-order-service/src/main/java/com/atguigu/gmall/order/orderListeners/OrderMqListener.java" />
+        <option value="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/service/PaymentService.java" />
+        <option value="$PROJECT_DIR$/gmall-payment/src/main/java/com/atguigu/gmall/payment/controller/PaymentController.java" />
+        <option value="$PROJECT_DIR$/gmall-payment/src/main/java/com/atguigu/gmall/payment/paymentListener/PaymentMqListener.java" />
+        <option value="$PROJECT_DIR$/gmall-payment/src/main/java/com/atguigu/gmall/payment/service/impl/PaymentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/gware-manage/src/main/java/com/atguigu/gware/mq/WareConsumer.java" />
+        <option value="$PROJECT_DIR$/gmall-order-service/src/main/java/com/atguigu/gmall/order/service/impl/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/gmall-search-service/src/test/java/com/atguigu/gmall/search/GmallSearchServiceApplicationTests.java" />
+        <option value="$PROJECT_DIR$/gmall-search-web/src/main/resources/static/index/js/catalogLoader.js" />
+        <option value="$PROJECT_DIR$/gmall-order-service/src/main/java/com/atguigu/gmall/order/ExpireOrder.java" />
+        <option value="$PROJECT_DIR$/gmall-order-service/src/main/java/com/atguigu/gmall/order/orderTask/ExpireOrder.java" />
+        <option value="$PROJECT_DIR$/gmall-seckill/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-seckill/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/gmall-seckill/src/main/java/com/atguigu/gmall/seckill/controller/SeckillController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\Applications\others\apache-maven-3.2.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="47" />
+    <option name="y" value="13" />
+    <option name="width" value="1382" />
+    <option name="height" value="734" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpringJavaAutowiringInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages ProjectPane="false" />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gmall0225" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall0225" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/gware-manage" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="SearchEverywhereHistoryKey" value="order&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0225/gmall-order-service/src/main/java/com/atguigu/gmall/order/service/impl/OrderServiceImpl.java&#10;pay&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0225/gmall-payment/src/main/java/com/atguigu/gmall/payment/service/impl/PaymentServiceImpl.java&#10;orderser&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0225/gmall-order-service/src/main/java/com/atguigu/gmall/order/service/impl/OrderServiceImpl.java&#10;pom&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0225/gmall-service-util/pom.xml&#10;ordercon&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0225/gmall-order-web/src/main/java/com/atguigu/gmall/order/controller/OrderController.java&#10;trade&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0225/gmall-order-web/src/main/resources/templates/trade.html&#10;auth&#9;PSI&#9;JAVA://com.atguigu.gmall.interceptors.AuthInterceptor&#10;orderSer&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0225/gmall-order-service/src/main/java/com/atguigu/gmall/order/service/impl/OrderServiceImpl.java&#10;user&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0225/gmall-user-service/src/main/java/com/atguigu/gmall/user/service/impl/UserServiceImpl.java&#10;cart&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0225/gmall-cart-web/src/main/java/com/atguigu/gmall/cart/controller/CartController.java&#10;index.html&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0225/gmall-search-web/src/main/resources/templates/index.html&#10;index.&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0225/gmall-passport-web/src/main/resources/templates/index.html&#10;index&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0225/gmall-passport-web/src/main/resources/templates/index.html&#10;userSer&#9;PSI&#9;JAVA://com.atguigu.gmall.user.service.impl.UserServiceImpl&#10;cartcon&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0225/gmall-cart-web/src/main/java/com/atguigu/gmall/cart/controller/CartController.java&#10;test.html&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0225/gmall-item-web/src/main/resources/templates/test.html&#10;om&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0225/gmall-api/src/main/java/com/atguigu/gmall/beans/OmsCartItem.java&#10;cartList&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0225/gmall-cart-web/src/main/resources/templates/cartList.html&#10;success&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0225/gmall-cart-web/src/main/resources/static/success.html&#10;item.html&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0225/gmall-item-web/src/main/resources/templates/item.html&#10;attrSer&#9;PSI&#9;JAVA://com.atguigu.gmall.manage.service.impl.AttrServiceImpl&#10;list.html&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0225/gmall-search-web/src/main/resources/templates/list.html&#10;skuSer&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0225/gmall-manage-service/src/main/java/com/atguigu/gmall/manage/service/impl/SkuServiceImpl.java&#10;PmsSkuIn&#9;PSI&#9;JAVA://com.atguigu.gmall.beans.PmsSkuInfo&#10;Pmsbasec&#9;PSI&#9;JAVA://com.atguigu.gmall.beans.PmsBaseCatalog1&#10;Pms&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0225/gmall-api/src/main/java/com/atguigu/gmall/beans/PmsSkuSaleAttrValue.java&#10;item.ht&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0225/gmall-item-web/src/main/resources/templates/item.html&#10;pms&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0225/gmall-api/src/main/java/com/atguigu/gmall/beans/PmsSkuInfo.java&#10;spuCon&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0225/gmall-manage-web/src/main/java/com/atguigu/gmall/manage/controller/SpuController.java&#10;pmsProInfo&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0225/gmall-api/src/main/java/com/atguigu/gmall/beans/PmsProductInfo.java&#10;pmsS&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0225/gmall-api/src/main/java/com/atguigu/gmall/beans/PmsSkuInfo.java&#10;AttrSer&#9;PSI&#9;JAVA://com.atguigu.gmall.manage.service.impl.AttrServiceImpl&#10;spuser&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0225/gmall-manage-service/src/main/java/com/atguigu/gmall/manage/service/impl/SpuServiceImpl.java" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.atguigu.gmall.payment.mapper" />
+      <recent name="com.atguigu.gmall.service" />
+      <recent name="com.atguigu.gmall.order.mapper" />
+      <recent name="com.atguigu.gmall.api" />
+      <recent name="com.atguigu.gmall.user.mapper" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.atguigu.gmall" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.gmall.payment.paymentListener" />
+      <recent name="com.atguigu.gmall.payment" />
+      <recent name="com.atguigu.gmall.service" />
+      <recent name="com.atguigu.gmall.user.controller" />
+      <recent name="com.atguigu.gmall.beans" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Applications\workSpaces\gmall0225\gmall-payment\src\main\java\com\atguigu\gmall\payment\test" />
+      <recent name="D:\Applications\workSpaces\gmall0225\gmall-payment\src\test\java\com\atguigu\gmall\payment" />
+      <recent name="D:\Applications\workSpaces\gmall0225\gmall-api\src\main\java\com\atguigu\gmall\beans" />
+      <recent name="D:\Applications\workSpaces\gmall0225\gmall-payment\src\main\resources\templates" />
+      <recent name="D:\Applications\workSpaces\gmall0225\gmall-payment\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.GmallSeckillApplication">
+    <configuration name="BossT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.gmall.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.gmall.payment.BossT" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="gmall-payment" />
+      <envs />
+    </configuration>
+    <configuration name="FeiLongT (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.gmall.payment.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.gmall.payment.test.FeiLongT" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="gmall-payment" />
+      <envs />
+    </configuration>
+    <configuration name="FeiLongT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.gmall.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.gmall.payment.FeiLongT" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="gmall-payment" />
+      <envs />
+    </configuration>
+    <configuration name="GmallCartServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.GmallCartServiceApplication" />
+      <module name="gmall-cart-service" />
+      <envs />
+    </configuration>
+    <configuration name="GmallCartWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.GmallCartWebApplication" />
+      <module name="gmall-cart-web" />
+      <envs />
+    </configuration>
+    <configuration name="GmallItemWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.item.GmallItemWebApplication" />
+      <module name="gmall-item-web" />
+      <envs />
+    </configuration>
+    <configuration name="GmallManageRedissonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.GmallManageRedissonApplication" />
+      <module name="gmall-manage-redisson" />
+      <envs />
+    </configuration>
+    <configuration name="GmallManageServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.GmallManageServiceApplication" />
+      <module name="gmall-manage-service" />
+      <envs />
+    </configuration>
+    <configuration name="GmallManageWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.manage.GmallManageWebApplication" />
+      <module name="gmall-manage-web" />
+      <envs />
+    </configuration>
+    <configuration name="GmallOrderServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.GmallOrderServiceApplication" />
+      <module name="gmall-order-service" />
+      <envs />
+    </configuration>
+    <configuration name="GmallOrderWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.GmallOrderWebApplication" />
+      <module name="gmall-order-web" />
+      <envs />
+    </configuration>
+    <configuration name="GmallPassportWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.passport.GmallPassportWebApplication" />
+      <module name="gmall-passport-web" />
+      <envs />
+    </configuration>
+    <configuration name="GmallPaymentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.GmallPaymentApplication" />
+      <module name="gmall-payment" />
+      <envs />
+    </configuration>
+    <configuration name="GmallSearchServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.search.GmallSearchServiceApplication" />
+      <module name="gmall-search-service" />
+      <envs />
+    </configuration>
+    <configuration name="GmallSearchServiceApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.gmall.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="gmall-search-service" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.atguigu.gmall.search" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.gmall.search.GmallSearchServiceApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="GmallSearchServiceApplicationTests.indexTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.gmall.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="gmall-search-service" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.atguigu.gmall.search" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.gmall.search.GmallSearchServiceApplicationTests" />
+      <option name="METHOD_NAME" value="indexTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="GmallSearchWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.GmallSearchWebApplication" />
+      <module name="gmall-search-web" />
+      <envs />
+    </configuration>
+    <configuration name="GmallSeckillApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.GmallSeckillApplication" />
+      <module name="gmall-seckill" />
+      <envs />
+    </configuration>
+    <configuration name="GmallUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.user.GmallUserApplication" />
+      <module name="gmall-user" />
+      <envs />
+    </configuration>
+    <configuration name="GmallUserServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.GmallUserServiceApplication" />
+      <module name="gmall-user-service" />
+      <envs />
+    </configuration>
+    <configuration name="GmallUserWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.user.GmallUserWebApplication" />
+      <module name="gmall-user-web" />
+      <envs />
+    </configuration>
+    <configuration name="GwareManageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.GwareManageApplication" />
+      <module name="gware-manage" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <list size="22">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.GmallUserApplication" />
+      <item index="1" class="java.lang.String" itemvalue="Spring Boot.GmallManageWebApplication" />
+      <item index="2" class="java.lang.String" itemvalue="Spring Boot.GmallUserServiceApplication" />
+      <item index="3" class="java.lang.String" itemvalue="Spring Boot.GmallUserWebApplication" />
+      <item index="4" class="java.lang.String" itemvalue="Spring Boot.GmallManageServiceApplication" />
+      <item index="5" class="java.lang.String" itemvalue="Spring Boot.GmallItemWebApplication" />
+      <item index="6" class="java.lang.String" itemvalue="Spring Boot.GmallSearchWebApplication" />
+      <item index="7" class="java.lang.String" itemvalue="Spring Boot.GmallSearchServiceApplication" />
+      <item index="8" class="java.lang.String" itemvalue="Spring Boot.GmallCartWebApplication" />
+      <item index="9" class="java.lang.String" itemvalue="Spring Boot.GmallCartServiceApplication" />
+      <item index="10" class="java.lang.String" itemvalue="Spring Boot.GmallOrderWebApplication" />
+      <item index="11" class="java.lang.String" itemvalue="Spring Boot.GmallPassportWebApplication" />
+      <item index="12" class="java.lang.String" itemvalue="Spring Boot.GmallOrderServiceApplication" />
+      <item index="13" class="java.lang.String" itemvalue="Spring Boot.GmallPaymentApplication" />
+      <item index="14" class="java.lang.String" itemvalue="Spring Boot.GmallManageRedissonApplication" />
+      <item index="15" class="java.lang.String" itemvalue="Spring Boot.GwareManageApplication" />
+      <item index="16" class="java.lang.String" itemvalue="Application.FeiLongT (1)" />
+      <item index="17" class="java.lang.String" itemvalue="Application.FeiLongT" />
+      <item index="18" class="java.lang.String" itemvalue="Application.BossT" />
+      <item index="19" class="java.lang.String" itemvalue="JUnit.GmallSearchServiceApplicationTests.indexTest" />
+      <item index="20" class="java.lang.String" itemvalue="JUnit.GmallSearchServiceApplicationTests.contextLoads" />
+      <item index="21" class="java.lang.String" itemvalue="Spring Boot.GmallSeckillApplication" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.GmallSearchServiceApplicationTests.contextLoads" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.GmallSearchServiceApplicationTests.indexTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.FeiLongT" />
+        <item index="3" class="java.lang.String" itemvalue="Application.BossT" />
+        <item index="4" class="java.lang.String" itemvalue="Application.FeiLongT (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c358cd2a-c71f-4d27-a04e-3c7423bc67c3" name="Default" comment="" />
+      <created>1561345693162</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561345693162</updated>
+      <workItem from="1561345694428" duration="9338000" />
+      <workItem from="1561366960821" duration="118000" />
+      <workItem from="1561424526716" duration="14506000" />
+      <workItem from="1561510199263" duration="14328000" />
+      <workItem from="1561682450875" duration="3321000" />
+      <workItem from="1561701852046" duration="5608000" />
+      <workItem from="1561769560570" duration="16455000" />
+      <workItem from="1561942623529" duration="8244000" />
+      <workItem from="1561960945788" duration="9436000" />
+      <workItem from="1562028412084" duration="18947000" />
+      <workItem from="1562114780921" duration="4848000" />
+      <workItem from="1562145470472" duration="334000" />
+      <workItem from="1562307203668" duration="8052000" />
+      <workItem from="1562374626310" duration="17965000" />
+      <workItem from="1562546252262" duration="18314000" />
+      <workItem from="1562633679991" duration="17196000" />
+      <workItem from="1562722437606" duration="238000" />
+      <workItem from="1562729894623" duration="14000" />
+      <workItem from="1562744961084" duration="39000" />
+      <workItem from="1562745071533" duration="40000" />
+      <workItem from="1562747566660" duration="23000" />
+      <workItem from="1562749049608" duration="10000" />
+      <workItem from="1562902179780" duration="9877000" />
+      <workItem from="1562920887130" duration="734000" />
+      <workItem from="1562979108863" duration="592000" />
+      <workItem from="1562997551731" duration="9274000" />
+      <workItem from="1563151889091" duration="18041000" />
+      <workItem from="1563238202142" duration="19768000" />
+      <workItem from="1563325042550" duration="14840000" />
+      <workItem from="1563350477556" duration="2137000" />
+      <workItem from="1563497573932" duration="37000" />
+      <workItem from="1563499664142" duration="6520000" />
+    </task>
+    <task id="LOCAL-00001" summary="购物车合并操作完成">
+      <created>1561346100738</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1561346100738</updated>
+    </task>
+    <task id="LOCAL-00002" summary="上传订单的代码">
+      <created>1561356840577</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1561356840577</updated>
+    </task>
+    <task id="LOCAL-00003" summary="上传bug">
+      <created>1561357105469</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1561357105469</updated>
+    </task>
+    <task id="LOCAL-00004" summary="上传bug">
+      <created>1561357438481</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1561357438481</updated>
+    </task>
+    <task id="LOCAL-00005" summary="修改项目日志">
+      <created>1561511638303</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1561511638303</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="GmallSearchServiceApplicationTests_contextLoads - 2019.07.05 at 16h 38m 34s.xml">
+      <configuration name="GmallSearchServiceApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GmallSearchServiceApplicationTests_contextLoads - 2019.07.05 at 16h 41m 06s.xml">
+      <configuration name="GmallSearchServiceApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GmallSearchServiceApplicationTests_contextLoads - 2019.07.05 at 16h 42m 42s.xml">
+      <configuration name="GmallSearchServiceApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GmallSearchServiceApplicationTests_contextLoads - 2019.07.06 at 09h 30m 08s.xml">
+      <configuration name="GmallSearchServiceApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GmallSearchServiceApplicationTests_contextLoads - 2019.07.06 at 09h 31m 25s.xml">
+      <configuration name="GmallSearchServiceApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GmallSearchServiceApplicationTests_contextLoads - 2019.07.06 at 09h 53m 38s.xml">
+      <configuration name="GmallSearchServiceApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GmallSearchServiceApplicationTests_contextLoads - 2019.07.17 at 15h 39m 32s.xml">
+      <configuration name="GmallSearchServiceApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GmallSearchServiceApplicationTests_indexTest - 2019.07.17 at 15h 38m 28s.xml">
+      <configuration name="GmallSearchServiceApplicationTests.indexTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GmallSearchServiceApplicationTests_searchTest - 2019.07.06 at 09h 52m 15s.xml">
+      <configuration name="GmallSearchServiceApplicationTests.searchTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GmallSearchWebApplicationTests_contextLoads - 2019.07.03 at 10h 42m 39s.xml">
+      <configuration name="GmallSearchWebApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="249194000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1384" height="746" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34271523" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.54304636" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21104388" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26264274" sideWeight="0.85790277" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25331125" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22390318" sideWeight="0.4827586" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33054712" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27348486" sideWeight="0.51724136" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1589404" sideWeight="0.4924357" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50570965" sideWeight="0.4969605" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.54304636" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21104388" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33054712" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1589404" sideWeight="0.4924357" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34271523" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26264274" sideWeight="0.85790277" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25331125" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50570965" sideWeight="0.4969605" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17246597" sideWeight="0.4827586" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27348486" sideWeight="0.51724136" order="5" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="购物车合并操作完成" />
+    <MESSAGE value="上传订单的代码" />
+    <MESSAGE value="上传bug" />
+    <MESSAGE value="修改项目日志" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改项目日志" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/gmall-item-web/src/test/java/com/atguigu/gmall/item/GmallItemWebApplicationTests.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/gmall-manage-service/src/test/java/com/atguigu/gmall/manage/GmallManageServiceApplicationTests.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/gmall-search-service/src/test/java/com/atguigu/gmall/search/GmallSearchServiceApplicationTests.java</url>
+          <line>96</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/gmall-payment/src/main/java/com/atguigu/gmall/payment/controller/PaymentController.java</url>
+          <line>126</line>
+          <properties />
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="88" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/beans/PaymentInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-payment/src/main/java/com/atguigu/gmall/payment/mapper/PaymentInfoMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="61" lean-forward="false" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-passport-web/src/main/java/com/atguigu/gmall/passport/controller/PassportController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="137" column="57" lean-forward="false" selection-start-line="137" selection-start-column="57" selection-end-line="137" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-payment/src/test/java/com/atguigu/gmall/payment/FeiLong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="38" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-payment/src/test/java/com/atguigu/gmall/payment/FengJie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-payment/src/main/java/com/atguigu/gmall/payment/test/ZhenGuo.java" />
+    <entry file="file://$PROJECT_DIR$/gmall-payment/src/main/java/com/atguigu/gmall/payment/test/TestMqTopic.java" />
+    <entry file="file://$PROJECT_DIR$/gmall-payment/src/main/java/com/atguigu/gmall/payment/test/FeiLongT.java" />
+    <entry file="file://$PROJECT_DIR$/gmall-payment/src/main/java/com/atguigu/gmall/payment/test/BossT.java" />
+    <entry file="file://$PROJECT_DIR$/gmall-payment/src/test/java/com/atguigu/gmall/payment/BossT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-payment/src/test/java/com/atguigu/gmall/payment/FeiLongT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="26" column="49" lean-forward="false" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-payment/src/test/java/com/atguigu/gmall/payment/FengJieT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" column="54" lean-forward="false" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-service-util/src/main/java/com/atguigu/gmall/util/ActiveMQUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="53" lean-forward="true" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-payment/src/test/java/com/atguigu/gmall/payment/Boss.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="62" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-user-service/src/main/java/com/atguigu/gmall/GmallUserServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-manage-service/src/main/java/com/atguigu/gmall/GmallManageServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-cart-service/src/main/java/com/atguigu/gmall/GmallCartServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-cart-web/src/main/java/com/atguigu/gmall/GmallCartWebApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-payment/src/main/java/com/atguigu/gmall/GmallPaymentApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="8" column="62" lean-forward="false" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-payment/src/main/resources/alipay.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-user-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-order-web/src/main/resources/templates/trade.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1051">
+          <caret line="126" column="37" lean-forward="true" selection-start-line="126" selection-start-column="37" selection-end-line="126" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-web-util/src/main/java/com/atguigu/gmall/interceptors/AuthInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="40" column="49" lean-forward="true" selection-start-line="40" selection-start-column="49" selection-end-line="40" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-order-web/src/main/java/com/atguigu/gmall/order/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="116" column="0" lean-forward="true" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/应用libs/atguigu/RepMaven/org/springframework/spring-web/4.3.24.RELEASE/spring-web-4.3.24.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="126" column="58" lean-forward="true" selection-start-line="126" selection-start-column="58" selection-end-line="126" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-service-util/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-338">
+          <caret line="53" column="1" lean-forward="false" selection-start-line="53" selection-start-column="1" selection-end-line="76" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-service-util/src/main/java/com/atguigu/gmall/config/ActiveMQConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="32" column="34" lean-forward="false" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-order-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="48" lean-forward="true" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-order-service/src/main/java/com/atguigu/gmall/order/orderListeners/OrderMqListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="33" column="36" lean-forward="true" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/service/PaymentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="47" lean-forward="false" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-payment/src/main/java/com/atguigu/gmall/payment/controller/PaymentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="43" column="17" lean-forward="true" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-payment/src/main/java/com/atguigu/gmall/payment/paymentListener/PaymentMqListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="32" column="49" lean-forward="true" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gware-manage/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gware-manage/src/main/java/com/atguigu/GwareManageApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gware-manage/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="47" lean-forward="true" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-payment/src/main/java/com/atguigu/gmall/payment/service/impl/PaymentServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="151" column="9" lean-forward="true" selection-start-line="151" selection-start-column="9" selection-end-line="151" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gware-manage/src/main/java/com/atguigu/gware/service/GwareService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="32" column="16" lean-forward="false" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gware-manage/src/main/java/com/atguigu/gware/mq/WareConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="89" column="33" lean-forward="true" selection-start-line="89" selection-start-column="33" selection-end-line="89" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-search-web/src/main/resources/static/index/js/catalogLoader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="42" lean-forward="false" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gware-manage/src/main/java/com/atguigu/gware/service/impl/GwareServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="219" column="46" lean-forward="false" selection-start-line="219" selection-start-column="46" selection-end-line="219" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-search-web/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="122" column="78" lean-forward="false" selection-start-line="122" selection-start-column="78" selection-end-line="122" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-search-service/src/test/java/com/atguigu/gmall/search/GmallSearchServiceApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="102" column="20" lean-forward="false" selection-start-line="102" selection-start-column="20" selection-end-line="102" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-order-service/src/main/java/com/atguigu/gmall/order/service/impl/OrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="32" column="33" lean-forward="false" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-order-service/src/main/java/com/atguigu/gmall/order/orderTask/ExpireOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-order-service/src/main/java/com/atguigu/gmall/GmallOrderServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-payment/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-seckill/src/main/java/com/atguigu/gmall/GmallSeckillApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-seckill/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-seckill/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="18" column="17" lean-forward="false" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-seckill/src/main/java/com/atguigu/gmall/seckill/controller/SeckillController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>gmall-service-util</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.1.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
