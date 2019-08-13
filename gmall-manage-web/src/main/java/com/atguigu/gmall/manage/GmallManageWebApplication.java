@@ -10,4 +10,5 @@ public class GmallManageWebApplication {
 		SpringApplication.run(GmallManageWebApplication.class, args);
 	}
 
+
 }
